@@ -6,11 +6,11 @@ Donate link: http://www.safiweb.co.ke/
 
 Tags: category, posts, recent, recent posts, widget, post-plugins
 
-Requires at least: 3.0
+Requires at least: 4.9.0
 
-Tested up to: 3.3.1
+Tested up to: 5.5
 
-Stable tag: 1.1a
+Stable tag: 1.2
 
 
 
